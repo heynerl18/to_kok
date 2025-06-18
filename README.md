@@ -19,7 +19,7 @@ Asegúrate de tener instalado:
 
 1.  Clona el repositorio:
     ```bash
-    git clone [URL_DE_TU_REPOSITORIO_AQUÍ]
+    git clone https://github.com/heynerl18/to_kok.git
     ```
 2.  Navega al directorio del proyecto:
     ```bash
